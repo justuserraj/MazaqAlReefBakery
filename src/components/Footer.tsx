@@ -3,7 +3,7 @@
 import React from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { ShoppingBasket, Instagram, Facebook, Twitter } from 'lucide-react';
-import { MadeWithVizoxStudio } from './made-with-dyad';
+import { MadeWithVizoxStudio } from './made-with-vizoxstudio';
 
 const Footer = () => {
   const navigate = useNavigate();
